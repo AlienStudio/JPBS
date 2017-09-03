@@ -1,5 +1,6 @@
 # JPBS
 
+Jianping Bullet Screen （建平中学弹幕系统）
 
 ## ToDos
 - [ ] User
